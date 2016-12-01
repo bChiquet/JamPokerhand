@@ -1,13 +1,7 @@
 name:                JamHaskellPokerhand
 version:             0.1.0.0
-synopsis:            Simple project template from stack
-description:         Please see README.md
-homepage:            https://github.com/githubuser/JamHaskellPokerhand#readme
+homepage:            https://github.com/bChiquet/JamPokerhand
 license:             BSD3
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
-category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
 
