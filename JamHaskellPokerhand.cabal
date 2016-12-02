@@ -20,7 +20,7 @@ executable JamHaskellPokerhand-exe
 test-suite JamHaskellPokerhand-test
   type:                exitcode-stdio-1.0
   hs-source-dirs:      test
-  main-is:             Pokerhand.spec.hs
+  main-is:             Spec.hs
   build-depends:       base
                      , JamHaskellPokerhand
                      , hspec
